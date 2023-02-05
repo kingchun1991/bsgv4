@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'BallShoesGuide',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'www.ballshoesguide.com',
   author: '波鞋Guide',
 
   // open graph metadata (optional)
